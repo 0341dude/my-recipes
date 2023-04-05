@@ -1,0 +1,23 @@
+* {
+    color: rgb(47, 20, 50);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(220,220,220);
+}
+
+.img {
+    width: 500px;
+    height: auto;
+}
+
+.recipe-name {
+    font-weight:bolder;
+    text-transform: uppercase;
+}
+
+div p {
+    font-weight: bold;
+}
+
+li {
+    font-style: italic;
+}
